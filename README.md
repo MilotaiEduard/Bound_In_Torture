@@ -1,4 +1,4 @@
-# Game Bound In Torture
+# Bound In Torture
 
 ## 🏆 About the Project
 This game was developed during a **Game Jam** organized by **Amber and Echo Winter School**. The theme of the competition was **"Lost and Found"**, and we had only **3 days** to create a complete game experience.
