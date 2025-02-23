@@ -48,7 +48,7 @@ There were **8 competing teams**, and our team won **3rd place**! 🎉
 - **GitHub Pages** for hosting
 
 ## 📖 About the Game
-"Game Bound In Torture" is a **2D platformer puzzle** with a dark, immersive atmosphere. Players must navigate through various chambers, uncovering clues and solving puzzles to progress through the story.
+"Bound In Torture" is a **2D platformer puzzle** with a dark, immersive atmosphere. Players must navigate through various chambers, uncovering clues and solving puzzles to progress through the story.
 
 ## 🚀 How to Play
 1. Use **Arrow Keys** to move.
@@ -60,4 +60,4 @@ This project was developed for educational and experimental purposes as part of 
 
 ---
 
-We hope you enjoy playing "Game Bound In Torture" as much as we enjoyed creating it! 😊
+We hope you enjoy playing "Bound In Torture" as much as we enjoyed creating it! 😊
